@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "I8ojzVr2amcSrLjAu2MyalNkefTcbl8Eeyg85prtP1A=",
+  "Source": "TestDotNetWebApplication",
+  "BasePath": "_content/TestDotNetWebApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestDotNetWebApplication\\wwwroot",
+      "Source": "TestDotNetWebApplication",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\wwwroot\\",
+      "BasePath": "_content/TestDotNetWebApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\wwwroot\\index.html",
+      "SourceId": "TestDotNetWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\wwwroot\\",
+      "BasePath": "_content/TestDotNetWebApplication",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

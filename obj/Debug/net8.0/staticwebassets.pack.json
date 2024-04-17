@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TestDotNetWebApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TestDotNetWebApplication.props",
+      "PackagePath": "build\\TestDotNetWebApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TestDotNetWebApplication.props",
+      "PackagePath": "buildMultiTargeting\\TestDotNetWebApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TestDotNetWebApplication.props",
+      "PackagePath": "buildTransitive\\TestDotNetWebApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
