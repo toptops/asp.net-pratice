@@ -24,3 +24,6 @@ C:\Users\PC\Desktop\workspace\TestDotNetWebApplication\obj\Debug\net8.0\refint\T
 C:\Users\PC\Desktop\workspace\TestDotNetWebApplication\obj\Debug\net8.0\TestDotNetWebApplication.pdb
 C:\Users\PC\Desktop\workspace\TestDotNetWebApplication\obj\Debug\net8.0\TestDotNetWebApplication.genruntimeconfig.cache
 C:\Users\PC\Desktop\workspace\TestDotNetWebApplication\obj\Debug\net8.0\ref\TestDotNetWebApplication.dll
+C:\Users\PC\Desktop\workspace\TestDotNetWebApplication\obj\Debug\net8.0\TestDotNetWebApplication.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\workspace\TestDotNetWebApplication\obj\Debug\net8.0\TestDotNetWebApplication.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\workspace\TestDotNetWebApplication\obj\Debug\net8.0\TestDotNetWebApplication.sourcelink.json

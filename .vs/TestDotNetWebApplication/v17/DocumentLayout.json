@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|c:\\users\\pc\\desktop\\workspace\\testdotnetwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|c:\\users\\pc\\desktop\\workspace\\testdotnetwebapplication\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|solutionrelative:controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|c:\\users\\pc\\desktop\\workspace\\testdotnetwebapplication\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|c:\\users\\pc\\desktop\\workspace\\testdotnetwebapplication\\viewmodels\\studentteacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|solutionrelative:viewmodels\\studentteacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|c:\\users\\pc\\desktop\\workspace\\testdotnetwebapplication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|c:\\users\\pc\\desktop\\workspace\\testdotnetwebapplication\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\views\\home\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|solutionrelative:views\\home\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|c:\\users\\pc\\desktop\\workspace\\testdotnetwebapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\testdotnetwebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|solutionrelative:testdotnetwebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC5F6A2-58FB-45EA-8431-320D3AE1D302}|TestDotNetWebApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentTeacherViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\ViewModels\\StudentTeacherViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\StudentTeacherViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\ViewModels\\StudentTeacherViewModel.cs",
+              "RelativeToolTip": "ViewModels\\StudentTeacherViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:15:02.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:13:57.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T12:58:16.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:40:41.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\Views\\Home\\Student.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Student.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\Views\\Home\\Student.cshtml",
+              "RelativeToolTip": "Views\\Home\\Student.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T12:19:47.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\Controller\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controller\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\Controller\\HomeController.cs",
+              "RelativeToolTip": "Controller\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:16:04.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestDotNetWebApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\TestDotNetWebApplication.csproj",
+              "RelativeDocumentMoniker": "TestDotNetWebApplication.csproj",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\TestDotNetWebApplication.csproj",
+              "RelativeToolTip": "TestDotNetWebApplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T12:15:35.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T11:54:56.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\workspace\\TestDotNetWebApplication\\wwwroot\\index.html",
-              "RelativeToolTip": "wwwroot\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-04-17T11:54:35Z",
               "EditorCaption": ""
             }
           ]
